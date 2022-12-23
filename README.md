@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+This project is an accounting CRM dashboard built in react.js
+![f2](https://user-images.githubusercontent.com/82268257/209299661-b5642edb-2e5d-464d-ab89-4c42ec619651.png)
+![Uploading f1.png…]()
+![f3](https://user-images.githubusercontent.com/82268257/209299697-90b6b2d0-4ab3-4a8f-9525-41d771b760ce.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
