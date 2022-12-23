@@ -1,0 +1,10 @@
+.prof img{
+    border-radius: 100%;
+    width: 35px;
+    margin: 0 5px 0 10px;
+}
+
+.prof{
+    font-weight:bold;
+    font-size:13px
+}

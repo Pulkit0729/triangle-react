@@ -1,0 +1,73 @@
+.workCount {
+  margin-left: auto;
+  color: #adadad;
+  font-family: Raleway, sans-serif;
+  font-size: 14px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.listsWrapper{
+  display: flex;
+  margin-top: 1.25rem;
+  overflow-x: auto;
+}
+
+.listsWrapper::-webkit-scrollbar{
+  display: none;
+}
+.workList{
+  background: #fff;
+  border-radius: 16px;
+  min-width: 25vw;
+  margin:0 11px;
+  padding: 12px;
+}
+
+.workList .title{
+  background-color: #EDEDEE;
+  border-radius:8px;
+  padding:8px 0 8px 24px;
+  color:#727275;
+  font-size: 1.15rem;
+}
+
+.workCard{
+  padding:13px 18px 10px;
+  margin:12px 0;
+  font-family: Roboto;
+  border-radius: 0.5rem;
+  box-shadow:0px 1px 8px 0px rgb(0 0 0 / 16%)  !important;
+  display: flex;
+  flex-direction: column;
+}
+
+.workCard hr{
+  height:3px;
+  border-radius:30px;
+  margin: 0 0 6px;
+  background-color:green;
+}
+
+.workCard .cardTitle{
+  font-size: 1rem;
+  font-weight: bold;
+}
+.workCard .date{
+  margin-left: auto;
+  font-size: 0.7rem;
+  color: #7A7A7A;
+  font-weight: bold;
+}
+.workCard .workSummary{
+  margin: 0.5rem 0;
+  white-space:normal;
+  font-size:0.9rem;
+  font-weight:300;
+}
+.workCard .name{
+  background-color: #EFEFEF;
+  border-radius:4px;
+  padding:3px 6px;
+  font-size:0.75rem
+}

@@ -1,0 +1,22 @@
+.toolbarWrapper{
+    font-size: 0.8em !important;
+    width: 100%;
+    padding:0;
+}
+.toolbarWrapper img{
+    width:12px;
+    
+}
+.editor{
+    height: 170px;
+    width: 45vw;
+}
+.dropdown{
+    width:fit-content;
+}
+.dropdown a{
+    gap:10px;
+}
+.dropdown div{
+    position:unset;
+}

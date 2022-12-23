@@ -1,0 +1,38 @@
+.client{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.8rem;
+    padding-right: 1rem;
+}
+.client img{
+    height:50px;
+    border-radius:100%
+}
+.clientName{
+    font-size: 1rem;
+    font-weight: 600;
+    line-height:1rem;
+}
+.email{
+    font-size: 0.75rem;
+    line-height:1rem;
+}
+
+.clientTag{
+    background-color: #EDF6FE;
+    color: #349FFF;
+    padding: 6px 8px;
+    border-radius: 1rem;
+    font-size: 0.9rem;
+    line-height: 1rem;
+    align-self: center;
+    font-weight:bold;
+}
+.assigned{
+    font-size: 0.9rem;
+}
+
+.even{
+    background:#F3F2FF;
+}

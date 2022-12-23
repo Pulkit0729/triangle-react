@@ -1,0 +1,17 @@
+.home{
+    min-height: calc(100vh - 60px);
+    background-color: #F5F6F8;
+}
+
+.bodyWrapper{
+    display:flex;
+    height: -webkit-fill-available;
+    width: 100vw;
+}
+
+.homeWrapper{
+    margin-left: calc(22%);
+    margin-top: 0.5rem;
+    margin-right: 3.5rem;
+    width: -webkit-fill-available;
+}
